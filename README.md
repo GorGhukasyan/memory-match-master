@@ -17,8 +17,6 @@ The goal is to match all card pairs in the fewest moves and shortest time possib
 - JavaScript (ES6+)
 - CSS
 
-## 🌐 Live Demo
-https://your-project-name.vercel.app
 
 ## 📦 How to Run Locally
 1. Clone the repository
