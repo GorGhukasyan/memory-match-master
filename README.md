@@ -19,4 +19,4 @@ The goal is to match all card pairs in the fewest moves and shortest time possib
 
 
 ## 📦 How to Run Locally
-1. Clone the repository
+https://memory-match-master-phi.vercel.app/
